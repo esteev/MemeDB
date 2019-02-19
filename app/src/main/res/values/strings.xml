@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MemeDB</string>
+    <string name="Heading">Heading</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="fin">Finish</string>
+    <string name="Description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae urna eu elit
+        bibendum vehicula.
+    </string>
+
+    <string-array name="headings">
+        <item>EAT</item>
+        <item>SLEEP</item>
+        <item>CODE</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</item>
+        <item>Etiam vitae urna eu elit bibendum vehicula.</item>
+        <item>Ut sit amet volutpat ex. Sed ultricies, lacus sit amet euismod rutrum, odio lorem feugiat ex, quis
+            dignissim nisi tortor a ligula.
+        </item>
+    </string-array>
+
+</resources>
